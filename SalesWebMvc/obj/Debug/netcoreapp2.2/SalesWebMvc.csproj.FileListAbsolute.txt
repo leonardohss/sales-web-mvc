@@ -58,4 +58,3 @@ C:\Users\Leonardo Sousa\Documents\Projetos C#\SalesWebMvc\SalesWebMvc\obj\Debug\
 C:\Users\Leonardo Sousa\Documents\Projetos C#\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.2\SalesWebMvc.dll
 C:\Users\Leonardo Sousa\Documents\Projetos C#\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.2\SalesWebMvc.pdb
 C:\Users\Leonardo Sousa\Documents\Projetos C#\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.2\SalesWebMvc.csproj.CopyComplete
-C:\Users\Leonardo Sousa\Documents\Projetos C#\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Index.g.cshtml.cs
