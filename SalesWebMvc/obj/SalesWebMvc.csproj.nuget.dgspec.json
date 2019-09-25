@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Leonardo Sousa\\Documents\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj": {}
+    "C:\\Users\\Mauricy\\Documents\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Leonardo Sousa\\Documents\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj": {
+    "C:\\Users\\Mauricy\\Documents\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Leonardo Sousa\\Documents\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
+        "projectUniqueName": "C:\\Users\\Mauricy\\Documents\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
         "projectName": "SalesWebMvc",
-        "projectPath": "C:\\Users\\Leonardo Sousa\\Documents\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
-        "packagesPath": "C:\\Users\\Leonardo Sousa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Leonardo Sousa\\Documents\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\obj\\",
+        "projectPath": "C:\\Users\\Mauricy\\Documents\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
+        "packagesPath": "C:\\Users\\Mauricy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mauricy\\Documents\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Leonardo Sousa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mauricy\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

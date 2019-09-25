@@ -75,3 +75,6 @@ C:\Users\Leonardo Sousa\Documents\Projetos C#\SalesWebMvc\SalesWebMvc\obj\Debug\
 C:\Users\Leonardo Sousa\Documents\Projetos C#\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.2\Razor\Views\Sellers\Delete.g.cshtml.cs
 C:\Users\Leonardo Sousa\Documents\Projetos C#\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.2\Razor\Views\Sellers\Details.g.cshtml.cs
 C:\Users\Leonardo Sousa\Documents\Projetos C#\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.2\Razor\Views\Sellers\Edit.g.cshtml.cs
+C:\Users\Mauricy\Documents\Projetos C#\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.2\Razor\Views\Sellers\Delete.g.cshtml.cs
+C:\Users\Mauricy\Documents\Projetos C#\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.2\Razor\Views\Sellers\Details.g.cshtml.cs
+C:\Users\Mauricy\Documents\Projetos C#\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.2\Razor\Views\Sellers\Edit.g.cshtml.cs
