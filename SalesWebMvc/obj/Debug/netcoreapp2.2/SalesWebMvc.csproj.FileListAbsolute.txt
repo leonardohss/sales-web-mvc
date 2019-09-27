@@ -80,3 +80,6 @@ C:\Users\Mauricy\Documents\Projetos C#\SalesWebMvc\SalesWebMvc\obj\Debug\netcore
 C:\Users\Mauricy\Documents\Projetos C#\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.2\Razor\Views\Sellers\Edit.g.cshtml.cs
 C:\Users\Mauricy\Documents\Projetos C#\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.2\Razor\Views\SalesRecords\Index.g.cshtml.cs
 C:\Users\Mauricy\Documents\Projetos C#\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.2\Razor\Views\SalesRecords\SimpleSearch.g.cshtml.cs
+C:\Users\Leonardo Sousa\Documents\Projetos C#\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.2\Razor\Views\SalesRecords\GroupingSearch.g.cshtml.cs
+C:\Users\Leonardo Sousa\Documents\Projetos C#\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.2\Razor\Views\SalesRecords\Index.g.cshtml.cs
+C:\Users\Leonardo Sousa\Documents\Projetos C#\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.2\Razor\Views\SalesRecords\SimpleSearch.g.cshtml.cs
